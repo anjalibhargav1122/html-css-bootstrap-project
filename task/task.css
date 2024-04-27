@@ -1,0 +1,58 @@
+.bor {
+    border-right: 1px solid #d6cbcbe0;
+    height: 100vh;
+}
+
+.bc {
+    background-color: #FDF0EC !important;
+}
+
+.tx {
+    color: brown !important;
+}
+
+.mg {
+    padding-top: 230px;
+}
+
+.pic {
+    background-image: url(task\ img/d923aea2c9f6ef3ae9d600875eee5090.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 5vh;
+    width: 22%;
+    border-radius: 50%;
+}
+
+.wd {
+    width: 90% !important;
+}
+
+.do {
+    width: 5px;
+    height: 5px;
+    background-color: red;
+    border-radius: 50%;
+    position: relative;
+    right: 12px;
+    bottom: 4px;
+}
+
+.br {
+    border-bottom: 1px solid #d6cbcbe0 !important;
+    width: 100%;
+}
+
+@media screen and (max-width: 780px) {
+
+
+    .hid {
+        display: none;
+    }
+}
+
+.wt {
+    width: 10%;
+    height: 5vh;
+}

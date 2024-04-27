@@ -1,0 +1,39 @@
+
+.logo{
+    width: 16%;
+}
+
+.txdc{
+    text-decoration:overline;
+}
+
+.pic{
+    background-image: url(project\ img/img.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 60vh;
+}
+
+.bc{
+    background-color: white !important;
+}
+
+.img{
+    background-image: url(project\ img/img1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 60vh;
+}
+
+.pho{
+    background-image: url(project\ img/img2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 60vh;
+}

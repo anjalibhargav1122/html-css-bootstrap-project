@@ -1,0 +1,82 @@
+.img {
+    width: 20%;
+    height: 5vh;
+
+}
+
+.tex {
+    font-family: 'Inter';
+    font-size: 25px;
+    font-weight: 800;
+}
+
+.clr {
+    color: #718096f0;
+}
+
+.Clr {
+    color: #171923;
+}
+
+.br {
+    height: 35px;
+    width: 95%;
+}
+
+.br::placeholder {
+    padding: 15px;
+    color: #718096f0;
+}
+
+.bk {
+    background-color: #1C4532 !important;
+    border-radius: 15px !important;
+    width: 90%;
+}
+
+
+
+.lin {
+    width: 37%;
+    height: 0px;
+    border: 1px solid gray;
+}
+
+.IMG {
+    width: 10%;
+    height: 30px;
+}
+
+.but {
+    width: 90%;
+}
+
+.bgc{
+    background-color: #1C4532;
+}
+
+.mg{
+    margin-top: 17vh;
+}
+
+.bb{
+    background: #F7FAFC;
+}
+
+.ps{
+    position: relative;
+    left: 257px;
+    bottom: 70px;
+}
+
+@media screen and (max-width: 780px) {
+    .bb {
+        left: 0px;
+    }
+
+    .hid{
+        display: none;
+    }
+  }
+
+  

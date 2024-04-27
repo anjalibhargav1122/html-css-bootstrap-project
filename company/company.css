@@ -1,0 +1,47 @@
+.ff {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 6px;
+}
+
+.bc {
+    background-color: rgba(214, 131, 159, 0.724);
+}
+
+.img {
+    background-image: url(company\ img/photo-1687825520449-e7fc1a144cb2.avif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    width: 100%;
+}
+
+.cir {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    border: 5px solid rgb(87, 32, 205);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.im {
+    background-image: url(company\ img/photo-1687825519609-2a084890e2da.avif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+    border-radius: 50%;
+}
+
+.fo {
+    font-style: italic;
+}
+
+.bcr {
+    background-color: rgb(87, 32, 205);
+}
+
+

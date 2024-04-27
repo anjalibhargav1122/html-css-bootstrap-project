@@ -1,0 +1,54 @@
+.tx {
+    color: #FF6392;
+}
+
+.bg {
+    background-image: url(logo\ img/Image.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 30vh;
+    border-radius: 4px;
+}
+
+.BG {
+    background-image: url(logo\ img/side1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 30vh;
+    border-radius: 4px;
+}
+
+.GB {
+    background-image: url(logo\ img/side2.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 30vh;
+    border-radius: 4px;
+}
+
+.gb {
+    background-image: url(logo\ img/side.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 30vh;
+    border-radius: 4px;
+}
+
+.wd {
+    width: 11%;
+    background-color: #2A326F !important;
+}
+
+@media screen and (max-width: 780px) {
+    .md {
+        padding-top: 25px;
+    }
+}
